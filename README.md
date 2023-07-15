@@ -1,2 +1,2 @@
-# switch_windows_home_to_pro
+# Cambiar de Windows Home a Pro
 Script en para cambiar la versión a Pro
